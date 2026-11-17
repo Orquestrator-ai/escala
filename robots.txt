@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://escala.orquestrator.ai
+Sitemap: https://escala.orquestrator.ai/sitemap.xml
